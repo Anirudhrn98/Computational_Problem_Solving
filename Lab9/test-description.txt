@@ -1,0 +1,18 @@
+Test_1 : 
+This test case checks the output incase the escape point is
+blocked by a rock 
+
+Output for this case shows that all blocks result in no path
+with the a message the exit is blocked
+
+Test_2:
+This test case checks for a situation in which the dimension of
+maze provided do not match with the actual maze
+
+Output for this case shows which dimesion has the problem
+
+Test_3:
+This test case checks for the situation in which every block other 
+that escape point has a rock
+
+Output for this case shows that only block can escape( i.e escape point)

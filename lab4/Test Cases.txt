@@ -1,0 +1,17 @@
+
+Transpose:
+lettrehead   --> letterhead 
+yuong        --> young
+helol	     --> hello
+pset         --> pest
+taocma       --> tacoma
+fligth       --> flight
+
+
+Delete:
+helol	     --> hell
+lettterhead  --> letterhead
+yooung       --> young
+hooveer      --> hoover
+pesst        --> pest
+pset         --> set

@@ -1,0 +1,24 @@
+Question 1:
+
+Imbalance values when original string hash function was used
+
+File mb.text 
+table size : 100     imbalance : 33.05
+table size : 1000    imbalance : 3.5339547270306255		
+
+File atotc.txt
+table size : 100     imbalance : 108.93
+table size : 1000    imbalance : 10.286447638603697		
+
+
+Question 2:
+
+Imbalance values when Improved hash function was used
+
+File mb.text 
+table size : 100     imbalance : 33.05
+table size : 1000    imbalance : 2.5211995863495344		
+
+File atotc.txt
+table size : 100     imbalance : 108.93
+table size : 1000    imbalance : 9.993	
