@@ -56,40 +56,40 @@ Time complexity of operations
 ```
 
 7. Trees
-   ```plaintext
-   Traversals
-    BST concept, interface
-    BST implementation: insert, contains, height, size
-    Time complexity of operations
+```plaintext
+Traversals
+BST concept, interface
+BST implementation: insert, contains, height, size
+Time complexity of operations
    ```
-8.  Heaps
+9.  Heaps
    ```plaintext
-     Time complexity of different priority queue implementations
-Heap definition
-Heap insert, remove
-Array-based implementation
+   Time complexity of different priority queue implementations
+   Heap definition
+   Heap insert, remove
+   Array-based implementation
    ```
 9.  Graphs
    ```plaintext
-     Adjacency list, adjacency matrix
-Recursive Depth-first
-    traversal
-    search
-    find-path
-Iterative Breadth-first
-    traversal
-    search
-    find-path
-Dijkstra's algorithm
+   Adjacency list, adjacency matrix
+   Recursive Depth-first
+     traversal
+     search
+     find-path
+   Iterative Breadth-first
+     traversal
+     search
+     find-path
+   Dijkstra's algorithm
    ```
 10.  Hashing
    ```plaintext
-     Interface (put, get, contains)
-Hash functions
-Collisions
-Open addressing, how to put/get
-Chaining, how to put/get
-Rehashing
+   Interface (put, get, contains)
+   Hash functions
+   Collisions
+   Open addressing, how to put/get
+   Chaining, how to put/get
+   Rehashing
    ```
 
 ## Skills Developed
